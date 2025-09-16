@@ -1,4 +1,4 @@
-public class MatrixSumP345 {
+public class P345MatrixSum {
 
     /*
     We define the Matrix Sum of a matrix as the maximum possible sum of matrix elements such that none

@@ -1,4 +1,4 @@
-public class SummationOfPrimesP10 {
+public class P10SummationOfPrimes {
 
      // Find the sum of all the primes below two million.
 

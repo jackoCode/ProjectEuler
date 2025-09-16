@@ -1,4 +1,4 @@
-public class NumberLetterCountsP17 {
+public class P17NumberLetterCounts {
 
     /*
     If the numbers 1 to 5 are written out in words: one, two, three, four, five,

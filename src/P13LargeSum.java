@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class LargeSumP13 {
+public class P13LargeSum {
 
     // Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
 

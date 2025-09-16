@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-
-public class LargestPrimeFactorP3 {
+public class P3LargestPrimeFactor {
 
     // 600851475143
     static long maxPrimeFactor(long n){

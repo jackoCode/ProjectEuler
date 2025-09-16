@@ -1,9 +1,7 @@
-import javax.print.DocFlavor;
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
-public class LongestCollatzSequenceP14 {
+public class P14LongestCollatzSequence {
 
     /*
     The following iterative sequence is defined for the set of positive integers:

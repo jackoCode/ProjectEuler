@@ -1,4 +1,4 @@
-public class LatticePathsP15 {
+public class P15LatticePaths {
 
     /*
     Starting in the top left corner of a 2×2 grid, and only being able to

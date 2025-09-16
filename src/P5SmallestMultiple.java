@@ -1,4 +1,4 @@
-public class SmallestMultipleP5 {
+public class P5SmallestMultiple {
 
     // Smallest positive number that is evenly divisible by all of the numbers form 1 to 20
 

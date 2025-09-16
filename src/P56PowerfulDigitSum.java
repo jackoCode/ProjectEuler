@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class PowerfulDigitSumP56 {
+public class P56PowerfulDigitSum {
 
     /*
     A googol (10^100) is a massive number: one followed by one-hundred zeros; 100^100 is almost unimaginably large:

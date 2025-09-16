@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class FactorialDigitSumP20 {
+public class P20FactorialDigitSum {
 
     /*
     n! means n × (n − 1) × ... × 3 × 2 × 1

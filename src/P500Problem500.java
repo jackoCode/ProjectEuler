@@ -2,7 +2,7 @@ import java.math.BigInteger;
 
 // Solution: 35407281
 
-public class Problem500P500 {
+public class P500Problem500 {
 
     public static void main(String[] args) {
         BigInteger a = new BigInteger("2");

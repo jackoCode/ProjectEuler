@@ -1,4 +1,4 @@
-public class CountingSundaysP19 {
+public class P19CountingSundays {
 
     /*
     You are given the following information, but you may prefer to do some research for yourself.

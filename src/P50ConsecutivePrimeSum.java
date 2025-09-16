@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-
-public class ConsecutivePrimeSumP50 {
+public class P50ConsecutivePrimeSum {
 
     // Solution --> 997651
 

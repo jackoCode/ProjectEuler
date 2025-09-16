@@ -1,4 +1,4 @@
-public class DoubleBasePalindromesP36 {
+public class P36DoubleBasePalindromes {
 
     /*
     The decimal number, 585 = 1001001001 (binary), is palindromic in both bases.

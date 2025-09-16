@@ -1,4 +1,4 @@
-public class LargestProductSeriesP8 {
+public class P8LargestProductSeries {
 
     // Find the thirteen adjacent digits in the 1000-digit number that have the greatest product.
     // What is the value of this product?

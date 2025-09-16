@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-
-public class PrimeNumbersP7 {
+public class P7PrimeNumbers {
 
     // What is the 10001st prime number
 

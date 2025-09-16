@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class SelfPowerP48 {
+public class P48SelfPower {
 
     /*
     Find the last ten digits of the series 1^1+2^2+3^3+...+1000^1000.

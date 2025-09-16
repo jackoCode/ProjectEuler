@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class SumOfDigitsSequenceP551 {
+public class P551SumOfDigitsSequence {
 
     /*
     a_0 = 1

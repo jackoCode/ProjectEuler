@@ -1,4 +1,4 @@
-public class SpecialPythagoreanTripletP9 {
+public class P9SpecialPythagoreanTriplet {
 
     /*
     A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,

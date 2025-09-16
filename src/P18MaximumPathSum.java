@@ -1,4 +1,4 @@
-public class MaximumPathSumP18 {
+public class P18MaximumPathSum {
 
     // Find the maximum total from top to bottom of the triangle
     // 1074

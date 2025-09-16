@@ -1,4 +1,4 @@
-public class HighlyDivisibleTriangularNumberP12 {
+public class P12HighlyDivisibleTriangularNumber {
 
     // What is the value of the first triangle number to have over five hundred divisors?
 

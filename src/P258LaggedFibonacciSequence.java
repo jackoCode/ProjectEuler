@@ -1,9 +1,7 @@
-import java.math.BigInteger;
-import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LaggedFibonacciSequenceP258 {
+public class P258LaggedFibonacciSequence {
 
     // Solution --> 12747994
 

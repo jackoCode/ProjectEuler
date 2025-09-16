@@ -1,10 +1,8 @@
 import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class FibonacciNumberP25 {
+public class P25FibonacciNumber {
 
     /*
     The 12th term, F12, is the first term to contain three digits.

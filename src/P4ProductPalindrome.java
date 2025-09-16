@@ -1,4 +1,4 @@
-public class ProductPalindromeP4 {
+public class P4ProductPalindrome {
 
     // Largest palindrom made from the product of two 3-digit numbers
     public static void main(String[] args) {

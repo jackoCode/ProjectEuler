@@ -1,4 +1,4 @@
-public class MultiplesP1 {
+public class P1Multiples {
 
     // Sum of all the multiples of 3 or 5 below 100
 

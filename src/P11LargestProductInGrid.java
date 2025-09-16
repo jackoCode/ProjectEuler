@@ -1,4 +1,4 @@
-public class LargestProductInGridP11 {
+public class P11LargestProductInGrid {
 
     // Greatest product of for adjacent numbers in the same direction (up, down, left, right, diagonally)
 

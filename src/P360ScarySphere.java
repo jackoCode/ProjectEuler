@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class ScarySphereP360 {
+public class P360ScarySphere {
 
     // --> Solution 878825614395267072
 
