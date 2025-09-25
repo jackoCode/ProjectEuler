@@ -12,25 +12,31 @@ public class P21AmicableNumbers {
     // Solution is 31626
 
     public static void main(String[] args) {
+        int limit = 10000;
+        int totalSum = 0;
 
-        int sum = 0;
-
-        int dOfN;
-        int dOfA;
-        int dOfB;
-
-        int counter = 10000;
-
-        while (counter > 0){
-            for (int i = 1; i < counter/2; i++) {
-                if (counter % i == 0){
-                    dOfA = i;
-                }
+        for (int a = 2; a < limit; a++) {
+            int b = sumOfDivisors(a);
+            if (b != a && b < limit && sumOfDivisors(b) == a) {
+                totalSum += a;
             }
-
-            counter--;
         }
 
-        System.out.println(sum);
+        System.out.println(totalSum);
+    }
+
+    public static int sumOfDivisors(int n) {
+        int sum = 1;
+
+        for (int i = 2; i <= Math.sqrt(n); i++) {
+            if (n % i == 0) {
+                sum += i;
+                int other = n / i;
+                if (other != i) {
+                    sum += other;
+                }
+            }
+        }
+        return sum;
     }
 }
